@@ -1,0 +1,13 @@
+a.link:link {
+    color: blue;
+    text-decoration: none;
+}
+
+a.link:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+a.link:visited {
+    color: purple;
+}
